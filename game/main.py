@@ -54,7 +54,7 @@ def run_game():
   user_wins = 0  
   rounds = 1
   while True:
-    print('*' * 10)
+    print('¡!' * 10)
     print('ROUND', rounds)
     print('*' * 10)
 
